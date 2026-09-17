@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E8,50:E4C1F9,100:C3F0F7&height=200&section=header&text=Garima%20Sharma&fontSize=46&fontColor=6B2D5C&fontAlignY=38&desc=Turning%20privacy%20law%20into%20code%20that%20actually%20enforces%20it&descAlignY=58&descSize=17&descColor=7C4A6E" width="100%"/>
 
-<img src="https://img.shields.io/badge/💜_Proud_Woman_in_Tech-FFD1EA?style=for-the-badge&labelColor=FFD1EA&color=FFD1EA&logoColor=6B2D5C" height="32"/>
 <img src="https://img.shields.io/badge/🏆_Women_in_Technology_Award-E4C1F9?style=for-the-badge&labelColor=E4C1F9&color=E4C1F9&logoColor=6B2D5C" height="32"/>
 
 <br><br>
