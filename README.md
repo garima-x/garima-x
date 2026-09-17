@@ -4,6 +4,8 @@
 
 🦋
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8DAF3,50:D4BEE8,100:C0A9DC&height=6&width=100%25" width="100%"/>
+
 </div>
 
 <br>
@@ -17,14 +19,10 @@ I'm drawn to privacy-by-design: taking regulatory frameworks like India's DPDP A
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/🦋_Featured_Project-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="30"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C0A9DC,100:D4BEE8&height=45&width=100%25&section=header&text=🦋%20Featured%20Project&fontSize=18&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
 <br>
-
-<table width="100%">
-<tr>
-<td style="padding:24px; background-color:#FBF7FD;">
 
 ### ENCRYPT CMP
 *Blockchain-Anchored Consent Management Platform for India's DPDP Act*
@@ -44,21 +42,15 @@ I led the team that designed and built this from the ground up — not a hackath
 
 **[→ View Repository](https://github.com/garima-x/encrypt-cmp-csic)**
 
-</td>
-</tr>
-</table>
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4BEE8,100:C0A9DC&height=45&width=100%25&section=header&text=Tech%20Stack&fontSize=18&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
-
-🦋 · 🦋 · 🦋
-
-<br>
-
-<img src="https://img.shields.io/badge/Tech_Stack-E8DAF3?style=flat-square&labelColor=E8DAF3&color=E8DAF3&logoColor=4A2E5C" height="28"/>
-
-<br><br>
 
 **Languages & Core Stack**
 
@@ -100,14 +92,12 @@ I led the team that designed and built this from the ground up — not a hackath
 <br>
 
 <div align="center">
-
-🦋 · 🦋 · 🦋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C0A9DC,100:E8DAF3&height=45&width=100%25&section=header&text=Let's%20Connect&fontSize=18&fontColor=ffffff&fontAlignY=55" width="100%"/>
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/Let's_Connect-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-
-<br><br>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/garima-sharma-4b141a314">
   <img src="https://img.shields.io/badge/LinkedIn-C0A9DC?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
@@ -123,6 +113,6 @@ I led the team that designed and built this from the ground up — not a hackath
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C0A9DC,50:D4BEE8,100:E8DAF3&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C0A9DC,50:D4BEE8,100:E8DAF3&height=120&section=footer" width="100%"/>
 
 </div>
