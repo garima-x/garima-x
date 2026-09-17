@@ -60,56 +60,40 @@ I led the team that designed and built this from the ground up — not a hackath
 
 <br><br>
 
-**Languages**
+**Languages & Core Stack**
 
-<img src="https://img.shields.io/badge/Python-C0A9DC?style=flat-square&logo=python&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-C0A9DC?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/TypeScript-C0A9DC?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/Solidity-C0A9DC?style=flat-square&logo=solidity&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,solidity,react,fastapi,nodejs,postgres,supabase,redis,docker,git,github&theme=light" height="46"/>
 
 <br><br>
 
-**Frameworks & Libraries**
+**Blockchain & Infra**
 
-<img src="https://img.shields.io/badge/React-D4BEE8?style=flat-square&logo=react&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-D4BEE8?style=flat-square&logo=fastapi&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-<img src="https://img.shields.io/badge/Node.js-D4BEE8?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-<img src="https://img.shields.io/badge/Ethers.js-D4BEE8?style=flat-square&logo=ethers&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-<img src="https://img.shields.io/badge/Hardhat-D4BEE8?style=flat-square&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-<img src="https://img.shields.io/badge/Web3.py-D4BEE8?style=flat-square&logoColor=ffffff&labelColor=D4BEE8" height="28"/>
-
-<br><br>
-
-**Databases & Infrastructure**
-
-<img src="https://img.shields.io/badge/PostgreSQL-E8DAF3?style=flat-square&logo=postgresql&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
-<img src="https://img.shields.io/badge/Supabase-E8DAF3?style=flat-square&logo=supabase&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
-<img src="https://img.shields.io/badge/Neo4j-E8DAF3?style=flat-square&logo=neo4j&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
-<img src="https://img.shields.io/badge/Redis-E8DAF3?style=flat-square&logo=redis&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
-<img src="https://img.shields.io/badge/RabbitMQ-E8DAF3?style=flat-square&logo=rabbitmq&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
-<img src="https://img.shields.io/badge/Docker-E8DAF3?style=flat-square&logo=docker&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
 <img src="https://img.shields.io/badge/Ethereum_(Sepolia)-E8DAF3?style=flat-square&logo=ethereum&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
+<img src="https://img.shields.io/badge/Hardhat-E8DAF3?style=flat-square&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
+<img src="https://img.shields.io/badge/Ethers.js-E8DAF3?style=flat-square&logo=ethersjs&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
+<img src="https://img.shields.io/badge/Web3.py-E8DAF3?style=flat-square&logo=web3dotjs&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
+<img src="https://img.shields.io/badge/Neo4j-E8DAF3?style=flat-square&logo=neo4j&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
+<img src="https://img.shields.io/badge/RabbitMQ-E8DAF3?style=flat-square&logo=rabbitmq&logoColor=4A2E5C&labelColor=E8DAF3" height="28"/>
 
 <br><br>
 
-**Security & Analysis Tools**
+**Security & Reverse Engineering**
 
-<img src="https://img.shields.io/badge/JADX-C0A9DC?style=flat-square&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/Androguard-C0A9DC?style=flat-square&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/Semgrep-C0A9DC?style=flat-square&logo=semgrep&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/Frida-C0A9DC?style=flat-square&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-C0A9DC?style=flat-square&logo=github&logoColor=ffffff&labelColor=C0A9DC" height="28"/>
+<img src="https://img.shields.io/badge/Semgrep-D4BEE8?style=flat-square&logo=semgrep&logoColor=4A2E5C&labelColor=D4BEE8" height="28"/>
+<img src="https://img.shields.io/badge/JADX-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
+<img src="https://img.shields.io/badge/Androguard-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
+<img src="https://img.shields.io/badge/Frida-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
 
 <br><br>
 
 **Concepts**
 
-<img src="https://img.shields.io/badge/OOP_%26_DSA-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-<img src="https://img.shields.io/badge/REST_API_Design-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-<img src="https://img.shields.io/badge/Microservices-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-<img src="https://img.shields.io/badge/Fuzzing_%26_Exploit_Verification-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-<img src="https://img.shields.io/badge/Threat_Modelling-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
-<img src="https://img.shields.io/badge/DPDP_Act_%26_GDPR_Compliance-D4BEE8?style=flat-square&labelColor=D4BEE8&color=D4BEE8&logoColor=4A2E5C" height="28"/>
+<img src="https://img.shields.io/badge/OOP_%26_DSA-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/REST_API_Design-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/Microservices-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/Fuzzing_%26_Exploit_Verification-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/Threat_Modelling-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/DPDP_Act_%26_GDPR-C0A9DC?style=flat-square&labelColor=C0A9DC&color=C0A9DC&logoColor=ffffff" height="28"/>
 
 </div>
 
