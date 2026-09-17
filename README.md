@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Garima%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Turning%20privacy%20law%20into%20code%20that%20actually%20enforces%20it&descAlignY=62&descSize=18&descColor=cbd5e1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E8,50:E4C1F9,100:C3F0F7&height=200&section=header&text=Garima%20Sharma&fontSize=46&fontColor=6B2D5C&fontAlignY=38&desc=Turning%20privacy%20law%20into%20code%20that%20actually%20enforces%20it&descAlignY=58&descSize=17&descColor=7C4A6E" width="100%"/>
+
+<img src="https://img.shields.io/badge/💜_Proud_Woman_in_Tech-FFD1EA?style=for-the-badge&labelColor=FFD1EA&color=FFD1EA&logoColor=6B2D5C" height="32"/>
+<img src="https://img.shields.io/badge/🏆_Women_in_Technology_Award-E4C1F9?style=for-the-badge&labelColor=E4C1F9&color=E4C1F9&logoColor=6B2D5C" height="32"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/garima-sharma-4b141a314">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-C3F0F7?style=for-the-badge&logo=linkedin&logoColor=1E3A5F&labelColor=C3F0F7" height="30"/>
 </a>
 <a href="mailto:garimaliger@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FFE5B4?style=for-the-badge&logo=gmail&logoColor=8A5A00&labelColor=FFE5B4" height="30"/>
 </a>
-<img src="https://img.shields.io/badge/🏆_Women_in_Tech_Award-CSIC_1.0-B45309?style=for-the-badge" />
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E8,50:E4C1F9,100:C3F0F7&height=4&width=100%25" width="100%"/>
 
 <br>
 
@@ -22,11 +30,13 @@ I'm drawn to privacy-by-design: taking regulatory frameworks like India's DPDP A
 
 <br>
 
-## 🏆 Featured Project
+<div align="center">
+<img src="https://img.shields.io/badge/🏆_Featured_Project-FFD6E8?style=for-the-badge&labelColor=FFD6E8&color=FFD6E8&logoColor=6B2D5C" height="34"/>
+</div>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="padding:20px;">
 
 ### ENCRYPT CMP
 **Blockchain-Anchored Consent Management Platform for India's DPDP Act**
@@ -52,31 +62,39 @@ I led the team that designed and built this from the ground up — not a hackath
 
 <br>
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,solidity,html,css,supabase" />
+<img src="https://img.shields.io/badge/🛠️_Tech_Stack-C3F0F7?style=for-the-badge&labelColor=C3F0F7&color=C3F0F7&logoColor=1E3A5F" height="34"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,solidity,html,css,supabase&theme=light" />
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6E8,50:E4C1F9,100:C3F0F7&height=4&width=100%25" width="100%"/>
+
+<br>
+
 <div align="center">
 
-### 📫 Let's Connect
+<img src="https://img.shields.io/badge/📫_Let's_Connect-E4C1F9?style=for-the-badge&labelColor=E4C1F9&color=E4C1F9&logoColor=4A235A" height="34"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/garima-sharma-4b141a314">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-C3F0F7?style=for-the-badge&logo=linkedin&logoColor=1E3A5F&labelColor=C3F0F7" height="30"/>
 </a>
 <a href="mailto:garimaliger@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FFE5B4?style=for-the-badge&logo=gmail&logoColor=8A5A00&labelColor=FFE5B4" height="30"/>
 </a>
 
 <br><br>
 
 <sub>Building more at the intersection of security, governance, and code — see <a href="https://github.com/garima-x?tab=repositories">repositories</a> for what's in progress.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C3F0F7,50:E4C1F9,100:FFD6E8&height=100&section=footer" width="100%"/>
 
 </div>
